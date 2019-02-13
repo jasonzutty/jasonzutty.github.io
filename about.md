@@ -1,10 +1,32 @@
 ---
 layout: page
 title: About
+description: A little more about me
 nav-menu: true
 ---
-<img src="resources/profile.jpg" height="400px" alt="" data-position="center center" /> 
+<!-- Main -->
+<div id="main" class="alt">
 
-My name is Jason Zutty.
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>About me</h1>
+		</header>
 
-[Automated Machine Learning: A Biologically Inspired Approach](https://smartech.gatech.edu/handle/1853/60768)
+<!-- Content -->
+<div class="row">
+	<div class="6u 12u$(small)">
+		<img src="resources/profile.jpg" height="400px" alt="" data-position="center center" />
+	</div>
+	<div class="6u$ 12u$(small)">
+    <h3>Publications</h3>
+    <ul>
+      <li><a href="https://smartech.gatech.edu/handle/1853/60768">Automated Machine Learning: A Biologically Inspired Approach</a></li>
+    </ul>
+	</div>
+</div>
+
+</div>
+</section>
+</div>
