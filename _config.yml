@@ -35,12 +35,12 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url: https://www.github.com/jasonzutty
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+#gitlab_url: https://gitlab.com/u/andrewbanchich
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://www.instagram.com/jasonzutty
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
+linkedin_url: https://www.linkedin.com/in/jason-zutty-456b6413
+#pinterest_url:
+#slack_url:
 twitter_url: https://www.twitter.com/jasonzutty
 
 # Build settings
