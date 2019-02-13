@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jason Zutty
+subtitle: Research Engineer
 email: jasonzutty@gmail.com
 personal-email: jasonzutty@gmail.com
 work-email: jason.zutty@gtri.gatech.edu
@@ -26,18 +27,25 @@ url: "jasonzutty.github.io" # the base hostname & protocol for your site, e.g. h
 twitter_username: jasonzutty
 github_username:  jasonzutty
 
-twitter_url: https://www.twitter.com/jasonzutty
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
 github_url: https://www.github.com/jasonzutty
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://www.instagram.com/jasonzutty
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://www.twitter.com/jasonzutty
 
 # Build settings
 markdown: kramdown
 #theme: minima
-#theme: forty_jekyll_theme
-remote_theme: andrewbanchich/forty-jekyll-theme
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
 
 sass:
   style: compressed
